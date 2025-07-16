@@ -27,3 +27,5 @@ Interconnect                   |  NVIDIA NVLink Bridge |    NVLink: 600GB/s
 ** SXM4 GPUs via HGX A100 server boards; PCIe GPUs via NVLink Bridge for up to two GPUs
 *** 400W TDP for standard configuration. HGX A100-80GB CTS (Custom Thermal Solution) SKU can support TDPs up to 500W
 ```
+
+![V100 Memory Hierarchy](./res/V100-memory-hierarchy.png) from [Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking](https://arxiv.org/abs/1804.06826)
